@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Streamlit/Miscellaneous
+.checkpoints
+.DS_Store
+
+# OS-related files
+Thumbs.db
+desktop.ini
+
+# Model weights, large data
+checkpoints/
+*.h5
+
+
