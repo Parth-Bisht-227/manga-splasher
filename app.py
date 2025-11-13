@@ -101,7 +101,15 @@ checkpoint_files = [
         "url": "https://drive.google.com/uc?id=1bW6DrmRR1eKliq3_0Zdz1ujft2gj5_2E",
         "output": "./checkpoints/ckpt_epoch30-3.data-00000-of-00001"
     },
-    # Add similar dicts here for .index and checkpoint files if needed
+    {
+        "url": "https://drive.google.com/uc?id=15ZJ05HBr2FgKdteGL3IHw-6M74ZSQvYx",
+        "output": "./checkpoints/ckpt_epoch30-3.index"
+    },
+    {
+        "url": "https://drive.google.com/uc?id=1-BqpT71wxWWwYvnHL2EYRH-TIH-ACXUh",
+        "output": "./checkpoints/checkpoint"
+    },
+    
 ]
 
 if not os.path.exists('./checkpoints'):
