@@ -16,7 +16,7 @@ An AI-powered web app that automatically colorizes black-and-white manga panels 
 - Loss: Combined adversarial loss + L1 reconstruction loss
 
 ## Demo
-(Streamlit Cloud app link here)
+- Link: https://manga-splasher.streamlit.app/
 
 ## How to use
 1. Clone the repo:
